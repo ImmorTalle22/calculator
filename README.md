@@ -1,1 +1,24 @@
-# This repository contains various projects that reflect my level of skill and development in various areas. These projects provide employers with the opportunity to evaluate my competencies and experience, as well as gain insight into my creative approach to problem solving.
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...

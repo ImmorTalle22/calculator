@@ -1,1 +1,1 @@
-# project
+# This repository contains various projects that reflect my level of skill and development in various areas. These projects provide employers with the opportunity to evaluate my competencies and experience, as well as gain insight into my creative approach to problem solving.

@@ -2452,3 +2452,2428 @@ Processing by ApplicationController#index as HTML
 Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 4263)
 
 
+Started GET "/" for ::1 at 2024-01-20 20:51:41 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 1.3ms | Allocations: 1369)
+  Rendered layout layouts/application.html.slim (Duration: 4.2ms | Allocations: 6619)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms | Allocations: 7471)
+
+
+Started GET "/" for ::1 at 2024-01-20 20:51:57 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 1.3ms | Allocations: 1607)
+  Rendered layout layouts/application.html.slim (Duration: 4.3ms | Allocations: 6827)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms | Allocations: 7676)
+
+
+Started GET "/" for ::1 at 2024-01-20 21:14:06 +0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 7.1ms | Allocations: 13382)
+  Rendered layout layouts/application.html.slim (Duration: 69.5ms | Allocations: 42265)
+Completed 200 OK in 77ms (Views: 71.6ms | ActiveRecord: 0.0ms | Allocations: 48071)
+
+
+Started GET "/" for ::1 at 2024-01-20 21:46:55 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 1.5ms | Allocations: 1607)
+  Rendered layout layouts/application.html.slim (Duration: 6.9ms | Allocations: 8380)
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms | Allocations: 9233)
+
+
+Started GET "/" for ::1 at 2024-01-20 21:46:56 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 8)
+  Rendered layout layouts/application.html.slim (Duration: 1.3ms | Allocations: 1129)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms | Allocations: 1322)
+
+
+Started GET "/" for ::1 at 2024-01-20 21:46:56 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 8)
+  Rendered layout layouts/application.html.slim (Duration: 1.8ms | Allocations: 1125)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms | Allocations: 1317)
+
+
+Started GET "/" for ::1 at 2024-01-20 21:47:38 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 8)
+  Rendered layout layouts/application.html.slim (Duration: 4.4ms | Allocations: 2703)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms | Allocations: 2890)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:01:09 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 4.0ms | Allocations: 12075)
+  Rendered layout layouts/application.html.slim (Duration: 7.1ms | Allocations: 17262)
+Completed 200 OK in 8ms (Views: 7.7ms | ActiveRecord: 0.0ms | Allocations: 18112)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:03:22 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 3.3ms | Allocations: 2761)
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 2949)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:03:42 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.4ms | Allocations: 2768)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 2960)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:03:44 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 2.7ms | Allocations: 1154)
+Completed 200 OK in 3ms (Views: 3.2ms | ActiveRecord: 0.0ms | Allocations: 1341)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:03:54 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.4ms | Allocations: 2757)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms | Allocations: 2944)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:03:59 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.8ms | Allocations: 2753)
+Completed 200 OK in 5ms (Views: 5.1ms | ActiveRecord: 0.0ms | Allocations: 2940)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:04:19 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 7.9ms | Allocations: 2769)
+Completed 200 OK in 9ms (Views: 8.5ms | ActiveRecord: 0.0ms | Allocations: 2956)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:04:20 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.2ms | Allocations: 1162)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms | Allocations: 1349)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:04:21 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.3ms | Allocations: 1162)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms | Allocations: 1349)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:04:50 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 3.6ms | Allocations: 2759)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms | Allocations: 2946)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:05:37 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 10.6ms | Allocations: 2761)
+Completed 200 OK in 11ms (Views: 11.1ms | ActiveRecord: 0.0ms | Allocations: 2948)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:05:55 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 3.9ms | Allocations: 12042)
+  Rendered layout layouts/application.html.slim (Duration: 7.2ms | Allocations: 17242)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms | Allocations: 18095)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:06:27 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 3.8ms | Allocations: 12023)
+  Rendered layout layouts/application.html.slim (Duration: 6.7ms | Allocations: 17228)
+Completed 200 OK in 8ms (Views: 7.5ms | ActiveRecord: 0.0ms | Allocations: 18077)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:06:30 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 3.9ms | Allocations: 12021)
+  Rendered layout layouts/application.html.slim (Duration: 8.0ms | Allocations: 17218)
+Completed 200 OK in 9ms (Views: 8.7ms | ActiveRecord: 0.0ms | Allocations: 18067)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:06:44 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 3.3ms | Allocations: 2770)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms | Allocations: 2958)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:07:08 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 3.7ms | Allocations: 2774)
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.0ms | Allocations: 2961)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:07:46 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.5ms | Allocations: 2779)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms | Allocations: 2966)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:07:55 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.2ms | Allocations: 2777)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms | Allocations: 2964)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:08:48 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.0ms | Allocations: 2783)
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.0ms | Allocations: 2970)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:08:49 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.6ms | Allocations: 1164)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms | Allocations: 1351)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:09:31 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.1ms | Allocations: 2793)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms | Allocations: 2980)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:09:42 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 3.9ms | Allocations: 2796)
+Completed 200 OK in 4ms (Views: 4.2ms | ActiveRecord: 0.0ms | Allocations: 2983)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:10:02 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.0ms | Allocations: 2785)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 2972)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:10:08 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 3.9ms | Allocations: 2795)
+Completed 200 OK in 4ms (Views: 4.2ms | ActiveRecord: 0.0ms | Allocations: 2982)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:10:43 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.2ms | Allocations: 2804)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 2992)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:11:06 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.2ms | Allocations: 2790)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 2979)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:11:16 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.2ms | Allocations: 3444)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms | Allocations: 3632)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:12:02 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 7.5ms | Allocations: 3411)
+Completed 200 OK in 8ms (Views: 8.0ms | ActiveRecord: 0.0ms | Allocations: 3599)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:12:32 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 3.8ms | Allocations: 2803)
+Completed 200 OK in 4ms (Views: 4.1ms | ActiveRecord: 0.0ms | Allocations: 2991)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:12:50 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 7.6ms | Allocations: 2798)
+Completed 200 OK in 9ms (Views: 8.3ms | ActiveRecord: 0.0ms | Allocations: 2986)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:14:35 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.0ms | Allocations: 2813)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 3001)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:14:41 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.4ms | Allocations: 2815)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms | Allocations: 3003)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:14:41 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.9ms | Allocations: 1162)
+Completed 200 OK in 2ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 1350)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:15:23 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.1ms | Allocations: 3407)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 3595)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:18:25 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.7ms | Allocations: 3419)
+Completed 200 OK in 6ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 3607)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:18:38 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 11.7ms | Allocations: 2802)
+Completed 200 OK in 12ms (Views: 12.2ms | ActiveRecord: 0.0ms | Allocations: 2991)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:19:29 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.2ms | Allocations: 2807)
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 2995)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:20:37 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 7.1ms | Allocations: 3418)
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms | Allocations: 3607)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:20:44 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.5ms | Allocations: 3880)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms | Allocations: 4068)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:22:47 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.7ms | Allocations: 2799)
+Completed 200 OK in 5ms (Views: 5.1ms | ActiveRecord: 0.0ms | Allocations: 2987)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:23:56 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.3ms | Allocations: 3974)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 4162)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:26:39 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.9ms | Allocations: 3467)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms | Allocations: 3655)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:26:49 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.2ms | Allocations: 3464)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms | Allocations: 3652)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:26:50 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 2.4ms | Allocations: 1164)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms | Allocations: 1352)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:26:50 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.8ms | Allocations: 1164)
+Completed 200 OK in 2ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 1352)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:27:10 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.2ms | Allocations: 1166)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms | Allocations: 1354)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:27:14 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.4ms | Allocations: 2814)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 3002)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:27:20 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.6ms | Allocations: 2808)
+Completed 200 OK in 5ms (Views: 5.1ms | ActiveRecord: 0.0ms | Allocations: 2996)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:27:34 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.5ms | Allocations: 1204)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms | Allocations: 1392)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:27:37 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 2.9ms | Allocations: 1208)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 1396)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:27:45 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 2.4ms | Allocations: 1172)
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms | Allocations: 1360)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:29:36 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.9ms | Allocations: 1162)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms | Allocations: 1350)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:31:09 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 3.7ms | Allocations: 3421)
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.0ms | Allocations: 3609)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:31:19 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.0ms | Allocations: 3883)
+Completed 200 OK in 4ms (Views: 4.3ms | ActiveRecord: 0.0ms | Allocations: 4071)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:31:29 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 3.4ms | Allocations: 3406)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms | Allocations: 3594)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:33:07 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.5ms | Allocations: 2829)
+Completed 200 OK in 6ms (Views: 6.0ms | ActiveRecord: 0.0ms | Allocations: 3017)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:34:24 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.6ms | Allocations: 2799)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms | Allocations: 2987)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:35:33 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.1ms | Allocations: 3422)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 3610)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:36:16 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.1ms | Allocations: 3976)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 4164)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:36:41 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.9ms | Allocations: 2813)
+Completed 200 OK in 5ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 3001)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:36:59 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.3ms | Allocations: 3399)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms | Allocations: 3587)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:37:07 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.3ms | Allocations: 3473)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms | Allocations: 3661)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:38:21 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.2ms | Allocations: 4391)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 4579)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:38:22 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.7ms | Allocations: 1170)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms | Allocations: 1358)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:38:31 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.4ms | Allocations: 3929)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms | Allocations: 4117)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:38:49 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.3ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.9ms | Allocations: 2807)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms | Allocations: 2995)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:39:33 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.6ms | Allocations: 3929)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms | Allocations: 4117)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:43:19 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.5ms | Allocations: 3942)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 4130)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:43:56 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.7ms | Allocations: 3468)
+Completed 200 OK in 5ms (Views: 5.1ms | ActiveRecord: 0.0ms | Allocations: 3656)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:43:56 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.5ms | Allocations: 1162)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms | Allocations: 1350)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:43:57 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 2.3ms | Allocations: 1152)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms | Allocations: 1340)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:49:11 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.6ms | Allocations: 3498)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms | Allocations: 3686)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:50:21 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.6ms | Allocations: 2825)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 3013)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:50:23 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.4ms | Allocations: 1176)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms | Allocations: 1364)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:50:24 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.5ms | Allocations: 1172)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms | Allocations: 1360)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:50:25 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.6ms | Allocations: 1164)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 1352)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:50:25 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.4ms | Allocations: 1160)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms | Allocations: 1348)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:51:06 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.3ms | Allocations: 3424)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms | Allocations: 3612)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:51:07 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.8ms | Allocations: 1168)
+Completed 200 OK in 5ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 1357)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:51:08 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.4ms | Allocations: 1173)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms | Allocations: 1361)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:51:30 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.0ms | Allocations: 4399)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 4587)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:54:21 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.4ms | Allocations: 3455)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 3643)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:55:57 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 4.0ms | Allocations: 12039)
+  Rendered layout layouts/application.html.slim (Duration: 7.7ms | Allocations: 17927)
+Completed 200 OK in 9ms (Views: 8.4ms | ActiveRecord: 0.0ms | Allocations: 18779)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:55:58 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.5ms | Allocations: 1168)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms | Allocations: 1356)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:55:59 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 2.3ms | Allocations: 1168)
+Completed 200 OK in 3ms (Views: 3.1ms | ActiveRecord: 0.0ms | Allocations: 1355)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:56:14 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 4.0ms | Allocations: 12021)
+  Rendered layout layouts/application.html.slim (Duration: 20.2ms | Allocations: 19578)
+Completed 500 Internal Server Error in 22ms (ActiveRecord: 0.0ms | Allocations: 20430)
+
+
+  
+ActionView::Template::Error (Error: Invalid CSS after "link rel": expected selector, was '="preconnect" href='
+        on line 1:6 of app/assets/stylesheets/application.scss
+>> link rel="preconnect" href="https://fonts.googleapis.com"
+
+   -----^
+):
+     6:     = csrf_meta_tags
+     7:     = csp_meta_tag
+     8: 
+     9:     = stylesheet_link_tag "application", "data-turbo-track": "reload"
+    10: 
+    11: 
+    12:   body
+  
+app/views/layouts/application.html.slim:9
+Started GET "/" for ::1 at 2024-01-20 22:56:58 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 12.5ms | Allocations: 3949)
+Completed 200 OK in 13ms (Views: 12.9ms | ActiveRecord: 0.0ms | Allocations: 4139)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:57:01 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.7ms | Allocations: 1156)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 1344)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:58:42 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.6ms | Allocations: 2838)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms | Allocations: 3026)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:58:50 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.1ms | Allocations: 2830)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms | Allocations: 3018)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:59:01 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.5ms | Allocations: 3510)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms | Allocations: 3698)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:59:11 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.2ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 10.3ms | Allocations: 3958)
+Completed 200 OK in 11ms (Views: 10.8ms | ActiveRecord: 0.0ms | Allocations: 4146)
+
+
+Started GET "/" for ::1 at 2024-01-20 22:59:23 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.4ms | Allocations: 2849)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms | Allocations: 3037)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:00:18 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.6ms | Allocations: 4422)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 4610)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:00:54 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.8ms | Allocations: 2873)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms | Allocations: 3061)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:01:53 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.6ms | Allocations: 3496)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 3684)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:02:00 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.8ms | Allocations: 4379)
+Completed 200 OK in 5ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 4567)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:02:05 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.3ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.6ms | Allocations: 3454)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 3642)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:02:45 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.7ms | Allocations: 5392)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 5580)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:03:10 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 9.4ms | Allocations: 3537)
+Completed 200 OK in 10ms (Views: 9.8ms | ActiveRecord: 0.0ms | Allocations: 3725)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:03:15 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.2ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 7.1ms | Allocations: 3535)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms | Allocations: 3723)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:03:42 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.7ms | Allocations: 3482)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms | Allocations: 3670)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:03:55 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.0ms | Allocations: 2866)
+Completed 200 OK in 5ms (Views: 5.3ms | ActiveRecord: 0.0ms | Allocations: 3054)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:05:19 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.6ms | Allocations: 4483)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 4671)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:06:02 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 2.0ms | Allocations: 1166)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms | Allocations: 1354)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:08:05 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 17.9ms | Allocations: 3952)
+Completed 200 OK in 19ms (Views: 18.5ms | ActiveRecord: 0.0ms | Allocations: 4140)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:08:43 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.8ms | Allocations: 3487)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms | Allocations: 3675)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:09:01 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.8ms | Allocations: 3942)
+Completed 200 OK in 6ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 4130)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:09:09 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.9ms | Allocations: 2879)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms | Allocations: 3067)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:10:25 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.5ms | Allocations: 1160)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms | Allocations: 1348)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:10:39 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.9ms | Allocations: 1162)
+Completed 200 OK in 2ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 1350)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:10:48 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.6ms | Allocations: 1152)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 1340)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:12:34 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.4ms | Allocations: 3537)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 3725)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:13:27 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.5ms | Allocations: 3531)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 3719)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:13:40 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.3ms | Allocations: 3485)
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 3673)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:14:35 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.7ms | Allocations: 3994)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 4182)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:14:59 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.6ms | Allocations: 1158)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 1346)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:15:14 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.7ms | Allocations: 3478)
+Completed 200 OK in 6ms (Views: 6.0ms | ActiveRecord: 0.0ms | Allocations: 3666)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:15:29 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 10.0ms | Allocations: 3490)
+Completed 200 OK in 11ms (Views: 10.7ms | ActiveRecord: 0.0ms | Allocations: 3679)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:16:09 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.7ms | Allocations: 3538)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms | Allocations: 3726)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:17:56 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.5ms | Allocations: 3988)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 4176)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:18:26 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.9ms | Allocations: 3934)
+Completed 200 OK in 6ms (Views: 6.3ms | ActiveRecord: 0.0ms | Allocations: 4123)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:30:27 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.3ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.1ms | Allocations: 3552)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms | Allocations: 3740)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:31:49 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.8ms | Allocations: 3483)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms | Allocations: 3671)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:31:57 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.5ms | Allocations: 2869)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms | Allocations: 3057)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:32:05 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.9ms | Allocations: 3483)
+Completed 200 OK in 5ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 3671)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:32:09 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 8.6ms | Allocations: 3477)
+Completed 200 OK in 9ms (Views: 8.9ms | ActiveRecord: 0.0ms | Allocations: 3665)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:32:14 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.9ms | Allocations: 2873)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 3061)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:32:18 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.1ms | Allocations: 4036)
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 4224)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:32:25 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.3ms | Allocations: 3483)
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 3671)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:32:30 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.2ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 8.3ms | Allocations: 3534)
+Completed 200 OK in 9ms (Views: 9.0ms | ActiveRecord: 0.0ms | Allocations: 3722)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:32:34 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.1ms | Allocations: 4026)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 4214)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:32:46 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.2ms | Allocations: 3476)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 3664)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:32:56 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.9ms | Allocations: 4493)
+Completed 200 OK in 6ms (Views: 6.3ms | ActiveRecord: 0.0ms | Allocations: 4681)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:33:11 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.2ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 8.6ms | Allocations: 4000)
+Completed 200 OK in 9ms (Views: 9.2ms | ActiveRecord: 0.0ms | Allocations: 4188)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:33:11 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.2ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.3ms | Allocations: 1164)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms | Allocations: 1352)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:33:24 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.6ms | Allocations: 1212)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms | Allocations: 1400)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:33:25 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.5ms | Allocations: 1156)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms | Allocations: 1344)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:33:26 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 2.4ms | Allocations: 1154)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 1342)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:33:36 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.9ms | Allocations: 3487)
+Completed 200 OK in 5ms (Views: 5.3ms | ActiveRecord: 0.0ms | Allocations: 3675)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:33:52 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.7ms | Allocations: 3529)
+Completed 200 OK in 6ms (Views: 6.1ms | ActiveRecord: 0.0ms | Allocations: 3717)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:34:01 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 12.8ms | Allocations: 2869)
+Completed 200 OK in 13ms (Views: 13.1ms | ActiveRecord: 0.0ms | Allocations: 3057)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:34:09 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.0ms | Allocations: 4893)
+Completed 200 OK in 5ms (Views: 5.3ms | ActiveRecord: 0.0ms | Allocations: 5081)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:34:13 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 7.3ms | Allocations: 2879)
+Completed 200 OK in 8ms (Views: 7.6ms | ActiveRecord: 0.0ms | Allocations: 3067)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:34:18 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.1ms | Allocations: 4903)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 5091)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:34:30 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.4ms | Allocations: 3485)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 3673)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:34:47 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.5ms | Allocations: 3530)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 3718)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:34:53 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 7.2ms | Allocations: 4447)
+Completed 200 OK in 8ms (Views: 7.5ms | ActiveRecord: 0.0ms | Allocations: 4635)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:35:05 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.1ms | Allocations: 3945)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms | Allocations: 4133)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:35:14 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.7ms | Allocations: 3532)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 3720)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:35:19 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 7.5ms | Allocations: 3489)
+Completed 200 OK in 8ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 3677)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:35:24 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.2ms | Allocations: 4484)
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 4672)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:35:55 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 2.1ms | Allocations: 1826)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms | Allocations: 2014)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:36:02 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 2.0ms | Allocations: 1816)
+Completed 200 OK in 2ms (Views: 2.3ms | ActiveRecord: 0.0ms | Allocations: 2004)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:36:13 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.8ms | Allocations: 1194)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms | Allocations: 1382)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:36:35 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 7.1ms | Allocations: 3537)
+Completed 200 OK in 8ms (Views: 7.6ms | ActiveRecord: 0.0ms | Allocations: 3725)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:40:44 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.8ms | Allocations: 4146)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 4334)
+
+
+Started GET "/images/background.jpg" for ::1 at 2024-01-20 23:40:44 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/images/background.jpg"):
+  
+Started GET "/" for ::1 at 2024-01-20 23:41:03 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 10.4ms | Allocations: 5191)
+Completed 200 OK in 11ms (Views: 10.7ms | ActiveRecord: 0.0ms | Allocations: 5379)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:43:02 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 2.8ms | Allocations: 1218)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 1406)
+
+
+Started GET "/images/background.jpg" for ::1 at 2024-01-20 23:43:02 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/images/background.jpg"):
+  
+Started GET "/" for ::1 at 2024-01-20 23:43:08 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.2ms | Allocations: 4010)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 4198)
+
+
+Started GET "/images/background.jpg" for ::1 at 2024-01-20 23:43:08 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/images/background.jpg"):
+  
+Started GET "/" for ::1 at 2024-01-20 23:43:16 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.4ms | Allocations: 4535)
+Completed 200 OK in 7ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 4723)
+
+
+Started GET "/images/background.jpg" for ::1 at 2024-01-20 23:43:16 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/images/background.jpg"):
+  
+Started GET "/" for ::1 at 2024-01-20 23:43:17 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.9ms | Allocations: 1178)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms | Allocations: 1367)
+
+
+Started GET "/images/background.jpg" for ::1 at 2024-01-20 23:43:17 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/images/background.jpg"):
+  
+Started GET "/" for ::1 at 2024-01-20 23:43:33 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 4.9ms | Allocations: 4473)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms | Allocations: 4662)
+
+
+Started GET "/background.jpg" for ::1 at 2024-01-20 23:43:33 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/background.jpg"):
+  
+Started GET "/" for ::1 at 2024-01-20 23:43:42 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 2.9ms | Allocations: 1418)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 1606)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:44:09 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.2ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.4ms | Allocations: 5787)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms | Allocations: 5975)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:44:16 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.4ms | Allocations: 5792)
+Completed 200 OK in 7ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 5980)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:44:35 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.1ms | Allocations: 4164)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 4352)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:44:42 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.4ms | Allocations: 5744)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms | Allocations: 5932)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:44:55 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 9.0ms | Allocations: 4875)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms | Allocations: 5063)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:45:01 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.8ms | Allocations: 1382)
+Completed 200 OK in 2ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 1570)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:45:01 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.4ms | Allocations: 1386)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms | Allocations: 1574)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:45:09 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 7.4ms | Allocations: 5284)
+Completed 200 OK in 8ms (Views: 7.9ms | ActiveRecord: 0.0ms | Allocations: 5472)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:45:14 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 9.7ms | Allocations: 4892)
+Completed 200 OK in 10ms (Views: 10.1ms | ActiveRecord: 0.0ms | Allocations: 5080)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:45:23 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 3.1ms | Allocations: 1426)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms | Allocations: 1614)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:45:48 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.4ms | Allocations: 4877)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 5065)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:46:02 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.4ms | Allocations: 4908)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 5097)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:46:07 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 7.5ms | Allocations: 3766)
+Completed 200 OK in 8ms (Views: 7.9ms | ActiveRecord: 0.0ms | Allocations: 3954)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:46:17 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 10.1ms | Allocations: 3771)
+Completed 200 OK in 11ms (Views: 10.8ms | ActiveRecord: 0.0ms | Allocations: 3959)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:46:33 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.2ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.3ms | Allocations: 4884)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms | Allocations: 5072)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:49:02 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 13.4ms | Allocations: 5394)
+Completed 200 OK in 14ms (Views: 13.7ms | ActiveRecord: 0.0ms | Allocations: 5583)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:49:17 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.2ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.9ms | Allocations: 3769)
+Completed 200 OK in 7ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 3957)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:49:26 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.0ms | Allocations: 5343)
+Completed 200 OK in 6ms (Views: 6.3ms | ActiveRecord: 0.0ms | Allocations: 5531)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:49:33 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.2ms | Allocations: 4929)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 5117)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:49:38 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 9.6ms | Allocations: 4383)
+Completed 200 OK in 10ms (Views: 10.2ms | ActiveRecord: 0.0ms | Allocations: 4571)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:49:43 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 2.4ms | Allocations: 2040)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 2228)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:59:02 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.3ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 7.8ms | Allocations: 6030)
+Completed 200 OK in 8ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 6219)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:59:31 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.9ms | Allocations: 6248)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 6436)
+
+
+Started GET "/" for ::1 at 2024-01-20 23:59:50 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.2ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.9ms | Allocations: 5105)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 5293)
+
+
+Started GET "/images/dlinnye-foto-4.jpg" for ::1 at 2024-01-20 23:59:50 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/images/dlinnye-foto-4.jpg"):
+  
+Started GET "/" for ::1 at 2024-01-20 23:59:54 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.7ms | Allocations: 4476)
+Completed 200 OK in 6ms (Views: 6.0ms | ActiveRecord: 0.0ms | Allocations: 4664)
+
+
+Started GET "/dlinnye-foto-4.jpg" for ::1 at 2024-01-20 23:59:54 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/dlinnye-foto-4.jpg"):
+  
+Started GET "/" for ::1 at 2024-01-21 00:00:01 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 2.0ms | Allocations: 1432)
+Completed 200 OK in 2ms (Views: 2.3ms | ActiveRecord: 0.0ms | Allocations: 1622)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:00:02 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.7ms | Allocations: 1376)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms | Allocations: 1564)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:00:22 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.8ms | Allocations: 1396)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms | Allocations: 1584)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:01:07 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 2.0ms | Allocations: 1384)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 1573)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:01:23 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 12.6ms | Allocations: 5059)
+Completed 200 OK in 14ms (Views: 13.3ms | ActiveRecord: 0.0ms | Allocations: 5247)
+
+
+Started GET "/app/assets/images/dlinnye-foto-4.jpg" for ::1 at 2024-01-21 00:01:23 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/images/dlinnye-foto-4.jpg"):
+  
+Started GET "/" for ::1 at 2024-01-21 00:01:28 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 9.2ms | Allocations: 4137)
+Completed 200 OK in 10ms (Views: 9.6ms | ActiveRecord: 0.0ms | Allocations: 4326)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/images/dlinnye-foto-4.jpg"):
+  
+Started GET "/" for ::1 at 2024-01-21 00:01:32 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 5.4ms | Allocations: 3960)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 4149)
+
+
+Started GET "/images/dlinnye-foto-4.jpg" for ::1 at 2024-01-21 00:01:32 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/images/dlinnye-foto-4.jpg"):
+  
+Started GET "/" for ::1 at 2024-01-21 00:01:36 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 2.9ms | Allocations: 1832)
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 2020)
+
+
+Started GET "/images/dlinnye-foto-4.jpg" for ::1 at 2024-01-21 00:01:36 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/images/dlinnye-foto-4.jpg"):
+  
+Started GET "/" for ::1 at 2024-01-21 00:01:42 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.2ms | Allocations: 4606)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms | Allocations: 4795)
+
+
+Started GET "/images/dlinnye-foto-4.jpg" for ::1 at 2024-01-21 00:01:42 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/images/dlinnye-foto-4.jpg"):
+  
+Started GET "/" for ::1 at 2024-01-21 00:01:45 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 7.0ms | Allocations: 4626)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms | Allocations: 4815)
+
+
+Started GET "/images/dlinnye-foto-4.jpg" for ::1 at 2024-01-21 00:01:45 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/images/dlinnye-foto-4.jpg"):
+  
+Started GET "/" for ::1 at 2024-01-21 00:01:52 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.0ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 1.8ms | Allocations: 1428)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms | Allocations: 1617)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:02:15 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 7.5ms | Allocations: 4097)
+Completed 200 OK in 8ms (Views: 7.9ms | ActiveRecord: 0.0ms | Allocations: 4285)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:02:16 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 2.2ms | Allocations: 1380)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms | Allocations: 1568)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:02:25 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.7ms | Allocations: 6180)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 6368)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:02:52 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.8ms | Allocations: 5616)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 5804)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:03:18 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.2ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 6.5ms | Allocations: 4387)
+Completed 200 OK in 7ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 4575)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:03:59 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 11.1ms | Allocations: 5382)
+Completed 200 OK in 12ms (Views: 11.4ms | ActiveRecord: 0.0ms | Allocations: 5570)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:04:25 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 45)
+  Rendered layout layouts/application.html.slim (Duration: 2.2ms | Allocations: 1462)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms | Allocations: 1650)
+
+
+  [1m[35m (8.4ms)[0m  [1m[34mSELECT pg_try_advisory_lock(5448383253628375095)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Load (2.5ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1[0m  [[nil, "environment"]]
+  [1m[36mActiveRecord::InternalMetadata Create (2.8ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES ('environment', 'development', '2024-01-20 23:20:48.425629', '2024-01-20 23:20:48.425633') RETURNING "key"[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT pg_advisory_unlock(5448383253628375095)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT pg_try_advisory_lock(5448383253628375095)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.4ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1[0m  [[nil, "environment"]]
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_advisory_unlock(5448383253628375095)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT pg_try_advisory_lock(5448383253628375095)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Load (1.1ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1[0m  [[nil, "environment"]]
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT pg_advisory_unlock(5448383253628375095)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT pg_try_advisory_lock(5448383253628375095)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Load (1.5ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1[0m  [[nil, "environment"]]
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_advisory_unlock(5448383253628375095)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT pg_try_advisory_lock(5448383253628375095)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Load (1.1ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1[0m  [[nil, "environment"]]
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT pg_advisory_unlock(5448383253628375095)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/" for ::1 at 2024-01-21 02:26:46 +0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 8.8ms | Allocations: 23622)
+  Rendered layout layouts/application.html.slim (Duration: 56.9ms | Allocations: 57840)
+Completed 200 OK in 68ms (Views: 58.7ms | ActiveRecord: 0.0ms | Allocations: 63646)
+
+
+Started GET "/" for ::1 at 2024-01-21 02:40:01 +0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 10.9ms | Allocations: 23622)
+  Rendered layout layouts/application.html.slim (Duration: 53.9ms | Allocations: 48835)
+Completed 200 OK in 59ms (Views: 55.6ms | ActiveRecord: 0.0ms | Allocations: 54642)
+
+
+Started GET "/" for ::1 at 2024-01-21 02:47:42 +0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 9.6ms | Allocations: 23622)
+  Rendered layout layouts/application.html.slim (Duration: 167.1ms | Allocations: 128247)
+Completed 200 OK in 172ms (Views: 169.1ms | ActiveRecord: 0.0ms | Allocations: 134055)
+
+
+Started GET "/" for ::1 at 2024-01-21 02:50:39 +0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 10.0ms | Allocations: 23622)
+  Rendered layout layouts/application.html.slim (Duration: 43.4ms | Allocations: 50257)
+Completed 200 OK in 50ms (Views: 45.6ms | ActiveRecord: 0.0ms | Allocations: 56064)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:05:04 +0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 9.2ms | Allocations: 24101)
+  Rendered layout layouts/application.html.slim (Duration: 47.4ms | Allocations: 50242)
+Completed 200 OK in 52ms (Views: 49.2ms | ActiveRecord: 0.0ms | Allocations: 56049)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:20:18 +0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 9.1ms | Allocations: 24101)
+  Rendered layout layouts/application.html.slim (Duration: 43.9ms | Allocations: 50561)
+Completed 200 OK in 55ms (Views: 46.1ms | ActiveRecord: 0.0ms | Allocations: 56368)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:33:18 +0300
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 9.2ms | Allocations: 24101)
+  Rendered layout layouts/application.html.slim (Duration: 95.6ms | Allocations: 71258)
+Completed 200 OK in 103ms (Views: 98.0ms | ActiveRecord: 0.0ms | Allocations: 77065)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:34:25 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 2.3ms | Allocations: 1630)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms | Allocations: 1823)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:34:26 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 2.5ms | Allocations: 1636)
+Completed 200 OK in 3ms (Views: 3.1ms | ActiveRecord: 0.0ms | Allocations: 1828)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:34:27 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 1.9ms | Allocations: 1642)
+Completed 200 OK in 2ms (Views: 2.3ms | ActiveRecord: 0.0ms | Allocations: 1834)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:34:27 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 1.9ms | Allocations: 1632)
+Completed 200 OK in 2ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 1819)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:34:28 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 2.3ms | Allocations: 1632)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms | Allocations: 1824)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:34:29 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 1.7ms | Allocations: 1640)
+Completed 200 OK in 2ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 1827)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:34:29 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.2ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 2.3ms | Allocations: 1630)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 1817)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:34:41 +0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 9.8ms | Allocations: 24102)
+  Rendered layout layouts/application.html.slim (Duration: 84.3ms | Allocations: 66573)
+Completed 200 OK in 92ms (Views: 86.2ms | ActiveRecord: 0.0ms | Allocations: 72384)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:34:42 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 1.6ms | Allocations: 1634)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms | Allocations: 1827)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:36:45 +0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 9.5ms | Allocations: 24101)
+  Rendered layout layouts/application.html.slim (Duration: 66.3ms | Allocations: 59144)
+Completed 200 OK in 72ms (Views: 68.6ms | ActiveRecord: 0.0ms | Allocations: 64951)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:51:50 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 17.0ms | Allocations: 7152)
+Completed 200 OK in 18ms (Views: 17.4ms | ActiveRecord: 0.0ms | Allocations: 7345)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:53:29 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 2.8ms | Allocations: 2242)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 2434)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:57:13 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 2.5ms | Allocations: 2248)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms | Allocations: 2440)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:57:52 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 4.3ms | Allocations: 12501)
+  Rendered layout layouts/application.html.slim (Duration: 8.8ms | Allocations: 19028)
+Completed 200 OK in 10ms (Views: 9.6ms | ActiveRecord: 0.0ms | Allocations: 19877)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:57:59 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 4.1ms | Allocations: 12492)
+  Rendered layout layouts/application.html.slim (Duration: 8.3ms | Allocations: 19029)
+Completed 200 OK in 10ms (Views: 9.1ms | ActiveRecord: 0.0ms | Allocations: 19878)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:58:23 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 2.4ms | Allocations: 2268)
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms | Allocations: 2456)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:58:24 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 3.2ms | Allocations: 2264)
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 2456)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:58:42 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 2.7ms | Allocations: 2248)
+Completed 200 OK in 3ms (Views: 3.1ms | ActiveRecord: 0.0ms | Allocations: 2435)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:58:43 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 2.6ms | Allocations: 2246)
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms | Allocations: 2433)
+
+
+Started GET "/" for ::1 at 2024-01-21 03:59:30 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 2.5ms | Allocations: 2242)
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms | Allocations: 2429)
+
+
+Started GET "/" for ::1 at 2024-01-21 04:00:11 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 2.5ms | Allocations: 2260)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms | Allocations: 2447)
+
+
+Started GET "/" for ::1 at 2024-01-21 04:01:04 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.2ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 2.6ms | Allocations: 2242)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms | Allocations: 2429)
+
+
+Started GET "/" for ::1 at 2024-01-21 04:01:32 +0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 9.4ms | Allocations: 24101)
+  Rendered layout layouts/application.html.slim (Duration: 77.5ms | Allocations: 63143)
+Completed 200 OK in 86ms (Views: 79.6ms | ActiveRecord: 0.0ms | Allocations: 68950)
+
+
+Started GET "/" for ::1 at 2024-01-21 04:01:36 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.2ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 2.7ms | Allocations: 2260)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 2453)
+
+
+Started GET "/" for ::1 at 2024-01-21 04:14:16 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 5.9ms | Allocations: 12554)
+  Rendered layout layouts/application.html.slim (Duration: 10.4ms | Allocations: 19083)
+Completed 200 OK in 12ms (Views: 11.1ms | ActiveRecord: 0.0ms | Allocations: 19936)
+
+
+Started GET "/" for ::1 at 2024-01-21 04:14:17 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.2ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 2.8ms | Allocations: 2242)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 2435)
+
+
+Started GET "/" for ::1 at 2024-01-21 04:15:01 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 4.3ms | Allocations: 12493)
+  Rendered layout layouts/application.html.slim (Duration: 8.6ms | Allocations: 19018)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms | Allocations: 19871)
+
+
+Started GET "/" for ::1 at 2024-01-21 04:15:02 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 2.3ms | Allocations: 2250)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms | Allocations: 2438)
+
+
+Started GET "/" for ::1 at 2024-01-21 04:19:25 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.2ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 3.9ms | Allocations: 2248)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms | Allocations: 2435)
+
+
+Started GET "/" for ::1 at 2024-01-21 04:19:26 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 2.8ms | Allocations: 2244)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 2431)
+
+
+Started GET "/" for ::1 at 2024-01-21 04:19:41 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 3.0ms | Allocations: 2246)
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 2433)
+
+
+Started GET "/" for ::1 at 2024-01-21 04:19:42 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 2.5ms | Allocations: 2248)
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms | Allocations: 2435)
+
+
+Started GET "/" for ::1 at 2024-01-21 04:20:10 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 16.8ms | Allocations: 12502)
+  Rendered layout layouts/application.html.slim (Duration: 24.9ms | Allocations: 21968)
+Completed 500 Internal Server Error in 27ms (ActiveRecord: 0.0ms | Allocations: 22808)
+
+
+  
+ActionView::Template::Error (The asset "app.js" is not present in the asset pipeline.
+):
+     8: 
+     9:     = stylesheet_link_tag "application", "data-turbo-track": "reload"
+    10:     = javascript_include_tag 'application'
+    11:     = javascript_include_tag 'app'
+    12: 
+    13:   body
+    14:     = yield
+  
+app/views/layouts/application.html.slim:11
+Started GET "/" for ::1 at 2024-01-21 04:26:44 +0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 10.8ms | Allocations: 24101)
+  Rendered layout layouts/application.html.slim (Duration: 377.1ms | Allocations: 90990)
+Completed 200 OK in 382ms (Views: 379.1ms | ActiveRecord: 0.0ms | Allocations: 96798)
+
+
+Started GET "/" for ::1 at 2024-01-21 04:27:39 +0300
+Processing by ApplicationController#index as HTML
+  Rendering layout layouts/application.html.slim
+  Rendering application/index.html.slim within layouts/application
+  Rendered application/index.html.slim within layouts/application (Duration: 0.1ms | Allocations: 65)
+  Rendered layout layouts/application.html.slim (Duration: 181.7ms | Allocations: 31617)
+Completed 200 OK in 182ms (Views: 182.1ms | ActiveRecord: 0.0ms | Allocations: 31811)
+
+
